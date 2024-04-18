@@ -44,6 +44,7 @@ jobs:
       - name: Git reset
         if: ${{ failure() }}
         run: |
+          git pull --unshallow
           git checkout dev
-          git reset --hard dev@{1}
+          git reset --hard HEAD@{1}
           git push --force origin dev
