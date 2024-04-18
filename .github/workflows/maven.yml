@@ -55,8 +55,7 @@ jobs:
         if: success() && github.ref == 'refs/heads/dev'
         run: |
           echo "Tests passed!"
-          git checkout master
-          git pull --ff-only dev
-          git push origin master
+          git pull --ff-only origin dev
+          git push origin HEAD:main
           
 
