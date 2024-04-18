@@ -34,11 +34,8 @@ jobs:
         if: ${{ failure() }}
         run: echo "Tests failed!"
 
-      - name: Create and push failure branch
+      - name: Create failure branch
         if: ${{ failure() }}
         run: |
           echo "Tests failed!"
           git checkout -b failure-branch-${{ github.run_id }}
-          git add .
-          git commit -m "Test failure"
-          git push origin HEAD:failure-branch-${{ github.run_id }}
