@@ -43,4 +43,6 @@ jobs:
 
       - name: Git reset
         if: ${{ failure() }}
-        run: git reset --hard HEAD@{1}
+        run: |
+          git checkout dev
+          git reset --hard HEAD@{1}
