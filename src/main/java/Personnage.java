@@ -41,7 +41,7 @@ public class Personnage {
                     System.out.println("Le personnage attaquant a attaqué le personnage cible !");
                 }
             } else {
-                System.out.println("Le personnage cible est déjà mort !");
+                System.out.println("Le personnage PERSO cible est déjà mort !");
             }
         } else {
             System.out.println("Le personnage attaquant est déjà mort !");
