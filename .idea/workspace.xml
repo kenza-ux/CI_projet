@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dab7d7cd-c943-40d8-909c-b0d31a832c44" name="Changes" comment="retrouver l'histo perdu">
+    <list default="true" id="dab7d7cd-c943-40d8-909c-b0d31a832c44" name="Changes" comment="retrouver l'histo perdu v2">
       <change beforePath="$PROJECT_DIR$/.github/workflows/maven.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/maven.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -297,7 +296,14 @@
       <option name="project" value="LOCAL" />
       <updated>1713437744051</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="retrouver l'histo perdu v2">
+      <created>1713437927882</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1713437927882</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -339,7 +345,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="pom modifie" />
     <MESSAGE value="pom modifie avec superfire reports ajouté" />
     <MESSAGE value="je fais passer le test de attaque au vert" />
     <MESSAGE value="ajout du bloc check test result au .yml" />
@@ -364,6 +369,7 @@
     <MESSAGE value="ajouter deepen pour retrouver l'histo" />
     <MESSAGE value="echo des head" />
     <MESSAGE value="retrouver l'histo perdu" />
-    <option name="LAST_COMMIT_MESSAGE" value="retrouver l'histo perdu" />
+    <MESSAGE value="retrouver l'histo perdu v2" />
+    <option name="LAST_COMMIT_MESSAGE" value="retrouver l'histo perdu v2" />
   </component>
 </project>

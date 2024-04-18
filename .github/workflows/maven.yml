@@ -48,6 +48,6 @@ jobs:
           git checkout dev
           git show dev --oneline
           git show dev^ --oneline 
-          git reset --hard HEAD@{1}
+          git reset --hard dev^
           git push --force origin dev
            
