@@ -50,10 +50,10 @@ jobs:
           git push --force origin dev
 
       - name: Check test results
-          if: success() && github.ref == 'refs/heads/dev'
-          run: |
-            echo "Tests passed!"
-            git checkout master
+        if: success() && github.ref == 'refs/heads/dev'
+        run: |
+          echo "Tests passed!"
+          git checkout master
             
           
 
