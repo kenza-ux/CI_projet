@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dab7d7cd-c943-40d8-909c-b0d31a832c44" name="Changes" comment="percuter les modifs en remote en local v2">
+    <list default="true" id="dab7d7cd-c943-40d8-909c-b0d31a832c44" name="Changes" comment="ajout du bloc test OK success dans .yml">
       <change beforePath="$PROJECT_DIR$/.github/workflows/maven.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/maven.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/PersonnageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/PersonnageTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -333,7 +332,14 @@
       <option name="project" value="LOCAL" />
       <updated>1713450260001</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="ajout du bloc test OK success dans .yml">
+      <created>1713451294509</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1713451294510</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -375,7 +381,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="test au rouge" />
     <MESSAGE value="ajoute de dev au .yml pour que l'action soit appliquée aussi sur cette branche" />
     <MESSAGE value="ajouter le bloc de creation de nouvelle branche si echec de test" />
     <MESSAGE value="modifier .yml pour ajuster la commande de création de branche failure" />
@@ -400,6 +405,7 @@
     <MESSAGE value="retrouver l'histo perdu v3" />
     <MESSAGE value="percuter les modifs en remote en local" />
     <MESSAGE value="percuter les modifs en remote en local v2" />
-    <option name="LAST_COMMIT_MESSAGE" value="percuter les modifs en remote en local v2" />
+    <MESSAGE value="ajout du bloc test OK success dans .yml" />
+    <option name="LAST_COMMIT_MESSAGE" value="ajout du bloc test OK success dans .yml" />
   </component>
 </project>
