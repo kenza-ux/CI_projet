@@ -45,5 +45,5 @@ jobs:
         if: ${{ failure() }}
         run: |
           git checkout dev
-          git reset --hard HEAD@{1}
+          git reset --hard dev@{1}
           git push --force origin dev

@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dab7d7cd-c943-40d8-909c-b0d31a832c44" name="Changes" comment="modifier le reset de commit en cas d'echec pour prendre en compte le retour vers la branche dev afin de l'appliquer">
+    <list default="true" id="dab7d7cd-c943-40d8-909c-b0d31a832c44" name="Changes" comment="modifier bloc le reset de commit en cas d'echec pour ajouter le push forcé">
       <change beforePath="$PROJECT_DIR$/.github/workflows/maven.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/maven.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -248,7 +248,14 @@
       <option name="project" value="LOCAL" />
       <updated>1713436250374</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="modifier bloc le reset de commit en cas d'echec pour ajouter le push forcé">
+      <created>1713436620633</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1713436620633</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -312,6 +319,7 @@
     <MESSAGE value="correction d'indentation" />
     <MESSAGE value="ajout du reset en cas de failure du test du commit" />
     <MESSAGE value="modifier le reset de commit en cas d'echec pour prendre en compte le retour vers la branche dev afin de l'appliquer" />
-    <option name="LAST_COMMIT_MESSAGE" value="modifier le reset de commit en cas d'echec pour prendre en compte le retour vers la branche dev afin de l'appliquer" />
+    <MESSAGE value="modifier bloc le reset de commit en cas d'echec pour ajouter le push forcé" />
+    <option name="LAST_COMMIT_MESSAGE" value="modifier bloc le reset de commit en cas d'echec pour ajouter le push forcé" />
   </component>
 </project>
