@@ -46,8 +46,8 @@ jobs:
         run: |
           git fetch --deepen=2
           git checkout dev
-          git show HEAD
-          git diff HEAD^ HEAD
+          git show dev --oneline
+          git show dev^ --oneline 
           git reset --hard HEAD@{1}
           git push --force origin dev
            
