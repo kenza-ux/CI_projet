@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dab7d7cd-c943-40d8-909c-b0d31a832c44" name="Changes" comment="ajout du bloc test OK success dans .yml">
+    <list default="true" id="dab7d7cd-c943-40d8-909c-b0d31a832c44" name="Changes" comment="correction de main par master">
       <change beforePath="$PROJECT_DIR$/.github/workflows/maven.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/maven.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -339,7 +339,21 @@
       <option name="project" value="LOCAL" />
       <updated>1713451294510</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="ajout du bloc test OK success dans .yml avec test valide vert">
+      <created>1713451346990</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1713451346990</updated>
+    </task>
+    <task id="LOCAL-00038" summary="correction de main par master">
+      <created>1713451425631</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1713451425632</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -381,8 +395,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="ajoute de dev au .yml pour que l'action soit appliquée aussi sur cette branche" />
-    <MESSAGE value="ajouter le bloc de creation de nouvelle branche si echec de test" />
     <MESSAGE value="modifier .yml pour ajuster la commande de création de branche failure" />
     <MESSAGE value="modifier .yml pour ajuster la commande de création de branche failure v2" />
     <MESSAGE value="modifier .yml pour ajouter la partie authentification" />
@@ -406,6 +418,8 @@
     <MESSAGE value="percuter les modifs en remote en local" />
     <MESSAGE value="percuter les modifs en remote en local v2" />
     <MESSAGE value="ajout du bloc test OK success dans .yml" />
-    <option name="LAST_COMMIT_MESSAGE" value="ajout du bloc test OK success dans .yml" />
+    <MESSAGE value="ajout du bloc test OK success dans .yml avec test valide vert" />
+    <MESSAGE value="correction de main par master" />
+    <option name="LAST_COMMIT_MESSAGE" value="correction de main par master" />
   </component>
 </project>

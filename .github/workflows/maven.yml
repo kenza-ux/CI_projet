@@ -54,7 +54,7 @@ jobs:
         run: echo "Tests passed!"
 
       - name: Fast-forward main branch
-        if: success() && github.ref == 'refs/heads/dev'
+        if: ${{ success() }}
         run: |
           git checkout master
           git pull origin master --ff-only
