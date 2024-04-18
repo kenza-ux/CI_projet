@@ -27,8 +27,8 @@ jobs:
 
       - name: Set up Git identity
         run: |
-          git config --global user.email "kenza.merzouk@univ-tlse3.fr"
-          git config --global user.name "Kenza"
+          git config user.email "kenza.merzouk@univ-tlse3.fr"
+          git config user.name "Kenza"
 
       - name: Check test results
         if: ${{ failure() }}
