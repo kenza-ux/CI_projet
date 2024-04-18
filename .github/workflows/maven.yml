@@ -25,4 +25,8 @@ jobs:
         run: mvn test
         continue-on-error: true
 
+      - name: Check test results
+        if: ${{ failure() }}
+        run: echo "Tests failed!"
+
 
