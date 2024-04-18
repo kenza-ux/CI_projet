@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dab7d7cd-c943-40d8-909c-b0d31a832c44" name="Changes" comment="re modifier .yml la partie authentification">
+    <list default="true" id="dab7d7cd-c943-40d8-909c-b0d31a832c44" name="Changes" comment="ajouter le push de ma branche fail">
       <change beforePath="$PROJECT_DIR$/.github/workflows/maven.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/maven.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -192,7 +192,21 @@
       <option name="project" value="LOCAL" />
       <updated>1713433139849</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="juste creer une nouvelle branche de fail">
+      <created>1713433405210</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1713433405211</updated>
+    </task>
+    <task id="LOCAL-00017" summary="ajouter le push de ma branche fail">
+      <created>1713433672702</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1713433672705</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -221,6 +235,8 @@
     <MESSAGE value="modifier .yml pour ajuster la commande de création de branche failure v2" />
     <MESSAGE value="modifier .yml pour ajouter la partie authentification" />
     <MESSAGE value="re modifier .yml la partie authentification" />
-    <option name="LAST_COMMIT_MESSAGE" value="re modifier .yml la partie authentification" />
+    <MESSAGE value="juste creer une nouvelle branche de fail" />
+    <MESSAGE value="ajouter le push de ma branche fail" />
+    <option name="LAST_COMMIT_MESSAGE" value="ajouter le push de ma branche fail" />
   </component>
 </project>
