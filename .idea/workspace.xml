@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dab7d7cd-c943-40d8-909c-b0d31a832c44" name="Changes" comment="indentation résolue">
+    <list default="true" id="dab7d7cd-c943-40d8-909c-b0d31a832c44" name="Changes" comment="ajouter fetch depth car impossible de retrouver master pour push dessus contenu de dev">
       <change beforePath="$PROJECT_DIR$/.github/workflows/maven.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/maven.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -381,7 +381,14 @@
       <option name="project" value="LOCAL" />
       <updated>1713452219572</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="ajouter fetch depth car impossible de retrouver master pour push dessus contenu de dev">
+      <created>1713452692343</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1713452692343</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -423,7 +430,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="juste creer une nouvelle branche de fail" />
     <MESSAGE value="ajouter le push de ma branche fail" />
     <MESSAGE value="modifier le push de ma branche fail" />
     <MESSAGE value="contourner le probleme d acces pour  le push de ma branche fail" />
@@ -448,6 +454,7 @@
     <MESSAGE value="modif bloc de success" />
     <MESSAGE value="switch simplement sur master si test ok" />
     <MESSAGE value="indentation résolue" />
-    <option name="LAST_COMMIT_MESSAGE" value="indentation résolue" />
+    <MESSAGE value="ajouter fetch depth car impossible de retrouver master pour push dessus contenu de dev" />
+    <option name="LAST_COMMIT_MESSAGE" value="ajouter fetch depth car impossible de retrouver master pour push dessus contenu de dev" />
   </component>
 </project>
