@@ -56,9 +56,12 @@ jobs:
       - name: Fast-forward main branch
         if: ${{ success() }}
         run: |
+          git branch -a
+          git fetch origin master
+          
           git checkout master
-          git pull origin master --ff-only
-          git merge dev
+          git merge origin master --ff-only
+          
           git push origin master
           
 
