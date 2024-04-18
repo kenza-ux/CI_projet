@@ -46,8 +46,6 @@ jobs:
         run: |
           git fetch --deepen=2
           git checkout dev
-          git show dev --oneline
-          git show dev^ --oneline 
-          git reset --hard dev^
+          git reset --soft HEAD~1
           git push --force origin dev
            
