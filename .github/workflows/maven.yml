@@ -37,9 +37,9 @@ jobs:
       - name: Create failure branch
         if: ${{ failure() }}
         env:
-          PERSONAL_ACCESS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PERSONAL_ACCESS_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
         run: |
           echo "Tests failed!"
           git checkout -b failure-branch-${{ github.run_id }}
           git remote set-url origin "https://github.com/${{ github.repository }}"
-          git push origin failure-branch-${{ github.run_id }}
+          git push origin failure-branch-${{ github.run_id }} --quiet --set-upstream
