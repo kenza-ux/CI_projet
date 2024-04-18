@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dab7d7cd-c943-40d8-909c-b0d31a832c44" name="Changes" comment="contourner le probleme d acces pour  le push de ma branche fail">
+    <list default="true" id="dab7d7cd-c943-40d8-909c-b0d31a832c44" name="Changes" comment="apres config du repo a distance, je rajoute le push de la ma branche failure">
       <change beforePath="$PROJECT_DIR$/.github/workflows/maven.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/maven.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -220,7 +220,14 @@
       <option name="project" value="LOCAL" />
       <updated>1713434917321</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="apres config du repo a distance, je rajoute le push de la ma branche failure">
+      <created>1713435330540</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1713435330542</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -253,6 +260,7 @@
     <MESSAGE value="ajouter le push de ma branche fail" />
     <MESSAGE value="modifier le push de ma branche fail" />
     <MESSAGE value="contourner le probleme d acces pour  le push de ma branche fail" />
-    <option name="LAST_COMMIT_MESSAGE" value="contourner le probleme d acces pour  le push de ma branche fail" />
+    <MESSAGE value="apres config du repo a distance, je rajoute le push de la ma branche failure" />
+    <option name="LAST_COMMIT_MESSAGE" value="apres config du repo a distance, je rajoute le push de la ma branche failure" />
   </component>
 </project>
