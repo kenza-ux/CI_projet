@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dab7d7cd-c943-40d8-909c-b0d31a832c44" name="Changes" comment="modifier .yml pour ajuster la commande de création de branche failure">
+    <list default="true" id="dab7d7cd-c943-40d8-909c-b0d31a832c44" name="Changes" comment="modifier .yml pour ajuster la commande de création de branche failure v2">
       <change beforePath="$PROJECT_DIR$/.github/workflows/maven.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/maven.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -171,7 +171,14 @@
       <option name="project" value="LOCAL" />
       <updated>1713432292475</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="modifier .yml pour ajuster la commande de création de branche failure v2">
+      <created>1713432564532</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1713432564533</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -197,6 +204,7 @@
     <MESSAGE value="ajoute de dev au .yml pour que l'action soit appliquée aussi sur cette branche" />
     <MESSAGE value="ajouter le bloc de creation de nouvelle branche si echec de test" />
     <MESSAGE value="modifier .yml pour ajuster la commande de création de branche failure" />
-    <option name="LAST_COMMIT_MESSAGE" value="modifier .yml pour ajuster la commande de création de branche failure" />
+    <MESSAGE value="modifier .yml pour ajuster la commande de création de branche failure v2" />
+    <option name="LAST_COMMIT_MESSAGE" value="modifier .yml pour ajuster la commande de création de branche failure v2" />
   </component>
 </project>
