@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dab7d7cd-c943-40d8-909c-b0d31a832c44" name="Changes" comment="pom modifie">
+    <list default="true" id="dab7d7cd-c943-40d8-909c-b0d31a832c44" name="Changes" comment="pom modifie avec superfire reports ajouté">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/PersonnageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/PersonnageTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +43,9 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -119,7 +123,14 @@
       <option name="project" value="LOCAL" />
       <updated>1711120924087</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="pom modifie avec superfire reports ajouté">
+      <created>1711121458164</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1711121458165</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -138,6 +149,7 @@
     <MESSAGE value="diff maven.yml" />
     <MESSAGE value="v4 au lieu de v3" />
     <MESSAGE value="pom modifie" />
-    <option name="LAST_COMMIT_MESSAGE" value="pom modifie" />
+    <MESSAGE value="pom modifie avec superfire reports ajouté" />
+    <option name="LAST_COMMIT_MESSAGE" value="pom modifie avec superfire reports ajouté" />
   </component>
 </project>
