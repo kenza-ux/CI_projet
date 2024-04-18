@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dab7d7cd-c943-40d8-909c-b0d31a832c44" name="Changes" comment="ajouter deepen pour retrouver l'histo">
+    <list default="true" id="dab7d7cd-c943-40d8-909c-b0d31a832c44" name="Changes" comment="echo des head">
       <change beforePath="$PROJECT_DIR$/.github/workflows/maven.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/maven.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -276,7 +275,14 @@
       <option name="project" value="LOCAL" />
       <updated>1713437318383</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="echo des head">
+      <created>1713437544450</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1713437544450</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -318,7 +324,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="diff maven.yml" />
     <MESSAGE value="v4 au lieu de v3" />
     <MESSAGE value="pom modifie" />
     <MESSAGE value="pom modifie avec superfire reports ajouté" />
@@ -343,6 +348,7 @@
     <MESSAGE value="mod bloc le reset de commit en cas d'echec pour ajouter le push forcé" />
     <MESSAGE value="modifiier de niuveau bloc le reset de commit en cas d'echec pour ajouter le push forcé" />
     <MESSAGE value="ajouter deepen pour retrouver l'histo" />
-    <option name="LAST_COMMIT_MESSAGE" value="ajouter deepen pour retrouver l'histo" />
+    <MESSAGE value="echo des head" />
+    <option name="LAST_COMMIT_MESSAGE" value="echo des head" />
   </component>
 </project>
